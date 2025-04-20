@@ -2,12 +2,12 @@
 <svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="skillsGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#000428"/>
-      <stop offset="100%" stop-color="#004e92"/>
+      <stop offset="0%" stop-color="#3a1c71"/>
+      <stop offset="100%" stop-color="#4776E6"/>
     </linearGradient>
   </defs>
   <rect width="800" height="100" fill="url(#skillsGradient)" rx="10" ry="10"/>
   <text x="400" y="58" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">
-    AI • Machine Learning • Blockchain • Smart Contracts • Data Science
+    RAG Implementation • AI Agents • LLMs • Government Solutions • Augier.ai
   </text>
 </svg>

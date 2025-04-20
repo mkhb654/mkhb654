@@ -2,12 +2,12 @@
 <svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF416C"/>
-      <stop offset="100%" stop-color="#FF4B2B"/>
+      <stop offset="0%" stop-color="#1A2980"/>
+      <stop offset="100%" stop-color="#26D0CE"/>
     </linearGradient>
   </defs>
   <rect width="800" height="100" fill="url(#aiGradient)" rx="10" ry="10"/>
   <text x="50" y="58" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">
-    🧠 AI & Machine Learning Enthusiast
+    🧠 AI Engineer & RAG Specialist
   </text>
 </svg>
