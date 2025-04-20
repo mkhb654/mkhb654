@@ -1,14 +1,14 @@
-# 🔥 Muntaz Kaleem | AI Explorer 🥷🏼
+![Header](./assets/images/header.svg)
 
-## 🚀 Where AI Innovation Meets Blockchain Revolution 🚀
+![Skills](./assets/images/skills.svg)
 
-### 🧠 AI & Machine Learning Enthusiast
+![AI & Machine Learning](./assets/images/ai.svg)
 - 🤖 Exploring cutting-edge machine learning algorithms and applications
 - 🔬 Deep interest in neural networks and deep learning architectures
 - 📊 Developing data-driven solutions to complex problems
 - 🌐 Bridging the gap between theoretical AI concepts and practical implementations
 
-### ⛓️ Blockchain Developer
+![Blockchain Developer](./assets/images/blockchain.svg)
 - 🔗 Building decentralized applications on Ethereum
 - 💡 Smart contract development and implementation
 - 🌉 Creating bridges between traditional systems and blockchain technology
@@ -26,7 +26,7 @@ As a developer and researcher, I'm committed to continuous learning and pushing 
 - 📱 Smart Contract Systems: Building robust and secure blockchain-based solutions
 - 📊 Data Analytics: Leveraging ML for actionable insights from complex datasets
 
-### 🛠️ Tech Stack
+![Tech Stack](./assets/images/tech-stack.svg)
 **Languages & Frameworks**
 - Python | JavaScript | Solidity | TypeScript
 - TensorFlow | PyTorch | React | Node.js | Web3.js
@@ -48,7 +48,7 @@ As a developer and researcher, I'm committed to continuous learning and pushing 
 ### 📫 Connect With Me
 I'm always open to collaborations that push innovation forward. If you're working on exciting projects in AI, ML, or blockchain, let's connect and build something amazing together!
 
-> "The best way to predict the future is to invent it." — Alan Kay
+![Footer](./assets/images/footer.svg)
 
 ### 🌱 Current Endeavors
 - 📚 Expanding knowledge in advanced AI techniques and applications

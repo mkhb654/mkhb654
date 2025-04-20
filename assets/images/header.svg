@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3a1c71"/>
+      <stop offset="50%" stop-color="#d76d77"/>
+      <stop offset="100%" stop-color="#ffaf7b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#headerGradient)" rx="10" ry="10"/>
+  <text x="50" y="115" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">
+    Muntaz Kaleem | AI Explorer
+  </text>
+  <text x="50" y="150" font-family="Arial, sans-serif" font-size="20" fill="white">
+    Where AI Innovation Meets Blockchain Revolution
+  </text>
+  <circle cx="720" cy="100" r="50" fill="white" opacity="0.1"/>
+  <circle cx="670" cy="60" r="30" fill="white" opacity="0.1"/>
+  <circle cx="750" cy="150" r="25" fill="white" opacity="0.1"/>
+</svg>
