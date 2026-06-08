@@ -1,6 +1,5 @@
 
 
-![Header](./assets/images/header.svg)
 
 **AI Engineer — autonomous agents, RAG, and the orchestration that makes them production-grade.**
 
