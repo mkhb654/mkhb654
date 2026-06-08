@@ -1,62 +1,68 @@
+<div align="center">
+
 ![Header](./assets/images/header.svg)
+
+**AI Engineer — autonomous agents, RAG, and the orchestration that makes them production-grade.**
+
+Enterprise & government AI at [Augier.ai](https://augierai.com)
 
 ![Skills](./assets/images/skills.svg)
 
-![AI & Machine Learning](./assets/images/ai.svg)
-- 🤖 Implementing advanced Retrieval-Augmented Generation (RAG) systems
-- 🧩 Designing and developing autonomous AI agents with specialized capabilities
-- 📊 Creating data-driven solutions for complex government and enterprise challenges
-- 🌐 Building integrated AI systems that leverage LLMs for practical applications
+</div>
 
-![Professional Experience](./assets/images/professional.svg)
-- 💼 **AI Engineer at Augier.ai** - Leading RAG implementation for enterprise solutions
-- 🏛️ **Government Contracts via Augierai.com** - Developing specialized AI solutions for government agencies
-- 🔗 **AI Agent Development** - Creating autonomous agents that solve complex problems
-- 📈 **LLM Systems Architect** - Designing scalable architectures for large language model applications
+---
 
-### 🔭 About Me
-I am an AI Engineer specializing in Retrieval-Augmented Generation (RAG) implementations and autonomous AI agent development. At Augier.ai, I focus on building cutting-edge AI solutions that solve real-world problems for both enterprise clients and government contracts through Augierai.com.
+### About
 
-With a strong technical background in machine learning and natural language processing, I design and implement systems that combine the power of large language models with custom retrieval mechanisms to create more accurate, reliable, and context-aware AI applications.
+I build autonomous AI agents on solid machine-learning fundamentals — and the orchestration layer that makes them dependable in production. Most "AI agents" are a prompt and a hope; I build agents that **measure, decide, and improve**, with real decision math underneath and verification at every gate.
 
-### 🔬 Professional Expertise
-- 🧠 **RAG Implementation**: Building systems that enhance LLMs with external knowledge retrieval
-- 🤖 **AI Agent Development**: Creating autonomous agents with specialized capabilities
-- 🔄 **LLM Fine-tuning**: Customizing foundation models for specific domain applications
-- 🏛️ **Government AI Solutions**: Developing secure and compliant AI systems for government use
-- 📊 **Enterprise AI Integration**: Implementing AI solutions that integrate with existing business systems
+At Augier.ai I lead RAG and multi-agent systems for enterprise clients and government contracts — secure, compliant, and built to run.
 
-![Tech Stack](./assets/images/tech-stack.svg)
-**AI & NLP Tools**
-- Python | LangChain | LlamaIndex | HuggingFace Transformers
-- OpenAI API | Anthropic Claude | Embeddings | Vector Databases
+---
 
-**Infrastructure & Deployment**
-- Docker | Kubernetes | AWS | Azure | GCP
-- FastAPI | Flask | MLflow | Weights & Biases | Git
+### What I Build
 
-### 📚 Current Projects at Augier.ai
-- **Enterprise RAG System**: Building scalable retrieval systems for corporate knowledge bases
-- **Autonomous Agent Framework**: Developing a framework for creating specialized AI agents
-- **Government Data Processing**: Creating secure AI solutions for government document analysis
-- **Multi-Modal LLM Integration**: Implementing systems that combine text, image, and audio analysis
+| Area | Focus |
+|---|---|
+| **Autonomous agents** | Tool-using agents that reason per task and choose which capability to invoke — not rigid pipelines |
+| **ML-grounded decisioning** | Action selection via multi-armed bandits (UCB1), Thompson sampling, and Bayesian A/B evaluation |
+| **Retrieval-Augmented Generation** | Hybrid semantic + keyword retrieval, context engineering, and anti-hallucination evaluation |
+| **Multi-agent orchestration** | Parallel agents in isolated workspaces, governed by explicit contracts, integrated through review gates |
+| **Production AI** | Human-in-the-loop gating, idempotency, circuit breakers, cost tracking, auditable action logs |
 
-### 🔮 Research Focus
-- Improving RAG relevancy and reducing hallucinations in LLM outputs
-- Developing more efficient context management for long-context applications
-- Creating reliable evaluation methods for RAG system performance
-- Advancing multi-agent systems for complex problem-solving
+---
 
-### 📫 Connect With Me
-I'm always interested in discussing RAG implementations, AI agent development, and enterprise AI solutions. If you're working on challenging AI projects or looking for expertise in these areas, let's connect!
+### How I Build
+
+- **Agents reason, not pipeline** — each receives a goal and context, then decides which tools to call.
+- **Every decision is measured** — actions logged with confidence and outcome; a learning loop re-weights strategies so the system improves itself.
+- **Orchestration over headcount** — many agents run in parallel, isolated and contract-governed, integrated via review.
+- **Verification before claims** — nothing ships without tests run and output confirmed. Evidence, not assertion.
+- **Human-in-the-loop where it matters** — high-stakes outputs are gated for review, never sent autonomously.
+
+---
+
+### Core Stack
+
+```
+AI / ML        Python · Anthropic Claude · OpenAI · Claude Agent SDK · MCP
+RAG            LangChain · LlamaIndex · HuggingFace · embeddings · vector DBs · Neo4j
+Decisioning    multi-armed bandits · Thompson sampling · Bayesian A/B · eval harnesses
+Infra          Docker · Kubernetes · AWS · Azure · GCP · FastAPI · MLflow · W&B
+```
+
+---
+
+### Focus
+
+Reducing hallucination in production RAG · decision-theoretic agent control · reproducible evaluation for agent systems · multi-agent coordination for long-horizon problems.
+
+---
+
+<div align="center">
+
+**Building hard AI? Let's connect.**
 
 ![Footer](./assets/images/footer.svg)
 
-### 🌱 Current Professional Focus
-- 📚 Advancing the state of RAG technology for enterprise applications
-- 🔧 Building more capable and reliable autonomous AI agents
-- 🤝 Collaborating with government agencies to implement secure AI solutions
-- 🎓 Researching the latest advancements in LLM technology and retrieval systems
-
-### 💡 Fun Fact
-When I'm not engineering AI systems, I'm exploring ways to make large language models more factual, reliable, and beneficial for society. I believe that RAG is a critical component in building trustworthy AI that can augment human capabilities while maintaining accuracy and transparency.
+</div>
